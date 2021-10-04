@@ -2,7 +2,7 @@
 <p align="center">
     <a href="https://www.fusio-project.org/" target="_blank"><img src="https://www.fusio-project.org/img/fusio_64px.png"></a>
 </p>
-APIx
+XVIA - APIx
 # About
 
 Fusio is an open source API management platform which helps to build and manage REST APIs. Fusio provides all tools to 
